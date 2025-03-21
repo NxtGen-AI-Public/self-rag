@@ -1,0 +1,7 @@
+langchain_community
+tiktoken
+langchainhub
+chromadb
+langchain
+langgraph
+accelerate>=0.26.0
