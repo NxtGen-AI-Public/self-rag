@@ -44,7 +44,7 @@ This repository implements Self-RAG from scratch using [LangGraph](https://langc
 ## Usage
 ### Running the Self-RAG Workflow
 ```sh
-python self_rag.py
+python self_rag.ipynb
 ```
 
 ## How It Works
